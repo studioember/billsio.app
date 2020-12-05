@@ -1,21 +1,24 @@
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<base target="_blank">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-	<title class="pageTitle">{{ site.page_title }}</title>
-	<meta name="description" content="{{ site.app_description }}">
+{%- include snippets/get-article-title.html article=page -%}
+<title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
 
-	<link rel="shortcut icon" href="{{ site.app_icon }}">
+<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
+<link rel="canonical" href="{%- include snippets/page-url.html -%}">
 
-	<!-- Smart App Banner -->
-	{% if site.enable_smart_app_banner %}
-		<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
-	{% endif %}
+{%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
+{%- include snippets/get-nav-url.html path=_paths_rss -%}
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ __return }}">
 
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-	<link rel="stylesheet" href="/main.css">
-	<link rel="stylesheet" href="main.css">
-	<link rel="stylesheet" href="../main.css">
-</head>
+{%- include head/favicon.html -%}
+
+{%- include snippets/prepend-baseurl.html path='/assets/css/main.css' -%}
+<link rel="stylesheet" href="{{ __return }}">
+
+{%- include snippets/get-sources.html -%}
+{%- assign _sources = __return -%}
+<link rel="stylesheet" href="{{ _sources.font_awesome }}" >
+
+{%- include head/custom.html -%}
