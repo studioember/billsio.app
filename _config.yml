@@ -38,6 +38,22 @@ features                                  :
     description                           : No trackers, analytics, or linking bank accounts. Your data is yours, stored and accessed from iCloud. 
     fontawesome_icon_name                 : lock
     
+  - title                                 : Fully Functioning Free Tier
+    description                           : Tracking expenses shouldn't cost money. The free tier is fully capable of managing a basic budget. 
+    fontawesome_icon_name                 : dollar-sign
+
+  - title                                 : Set & Remember
+    description                           : Monthly, weekly, annually, or how about a combination of any type of repeating reminder?
+    fontawesome_icon_name                 : bookmark
+
+  - title                                 : Account Based Tracking
+    description                           : Know exactly how much gets charged to your credit card for those auto-renewing subscriptions
+    fontawesome_icon_name                 : credit-card
+    
+  - title                                 : Bill Overview
+    description                           : Quickly calculate your monthly costs, including bills that occur more or less frequent than monthly
+    fontawesome_icon_name                 : border-all
+    
   - title                                 : iPhone, iPad, and macOS Apps
     description                           : Check your Bills from any Apple device, all with native support
     fontawesome_icon_name                 : mobile
@@ -45,7 +61,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#01003d"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
@@ -55,18 +71,18 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#fafafa"
 
-link_color                                : "#1d63ea"
+link_color                                : "#130691"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#01003d"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#0fead9"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
