@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free forever, Premium $9.99 / Year                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free Forever, Premium $9.99 / Year                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Bills io, the secure expense manager
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -67,7 +67,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.95
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -83,9 +83,9 @@ feature_title_color                       : "#01003d"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#0fead9"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_background_color            : "#01003d"
 
-social_icons_foreground_color             : "#666666"
+social_icons_foreground_color             : "#a444e2"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
