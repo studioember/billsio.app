@@ -52,7 +52,7 @@ features                                  :
     
   - title                                 : Bill Overview
     description                           : Quickly calculate your monthly costs, including bills that occur more or less frequent than monthly
-    fontawesome_icon_name                 : border-all
+    fontawesome_icon_name                 : brain
     
   - title                                 : iPhone, iPad, and macOS Apps
     description                           : Check your Bills from any Apple device, all with native support
