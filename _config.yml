@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Encrypted, private, and secure
+  - title                                 : Encrypted, Private, and Secure
     description                           : No trackers, analytics, or linking bank accounts. Your data is yours, stored and accessed from iCloud. 
     fontawesome_icon_name                 : lock
     
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : dollar-sign
 
   - title                                 : Set & Remember
-    description                           : Monthly, weekly, annually, or how about a combination of any type of repeating reminder?
+    description                           : Easily track and plan your recurring bills. Come back later when you need to check their status.
     fontawesome_icon_name                 : bookmark
 
   - title                                 : Account Based Tracking
