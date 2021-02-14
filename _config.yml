@@ -23,8 +23,8 @@ your_name                                 : Nathan Grey
 your_link                                 : https://github.com/overtfuture            
 your_city                                 : Washington D.C.                                
 email_address                             : contact@studioember.com
-facebook_username                         :                                           
-instagram_username                        : 
+facebook_username                         : billsioapp                                          
+instagram_username                        : billsioapp
 twitter_username                          : billsioapp
 github_username                           : studioember
 youtube_username                          :
@@ -115,6 +115,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - .gitignore
+  - .nova
 
 collections:
   pages:
