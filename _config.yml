@@ -34,6 +34,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : New! Payment Tracking
+    description                           : Track and record payments with note tracking. Save confirmation code, reference numbers, etc.
+    fontawesome_icon_name                 : receipt
+
   - title                                 : Encrypted, Private, and Secure
     description                           : No trackers, analytics, or linking bank accounts. Your data is yours, stored and accessed from iCloud. 
     fontawesome_icon_name                 : lock
@@ -69,7 +73,7 @@ cover_image                               : assets/headerimage.jpg              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.3
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Options: blue, black, yellow, coral or white.
 
 body_background_color                     : "#fafafa"
 

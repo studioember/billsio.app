@@ -10,7 +10,7 @@ Ongoing list of updates and changes to Bills io. If you have a feature request o
 
 [Create a new bug or feature request](https://github.com/studioember/billsio.app/issues/new)
 
-## Coming Soon! `v1.1.0` - Payment Updates
+## `v1.1.0` - Payment Updates
 
 Premium Only
 - Payment Notes, add confirmation number, etc to each payment
