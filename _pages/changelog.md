@@ -10,6 +10,10 @@ Ongoing list of updates and changes to Bills io. If you have a feature request o
 
 [Create a new bug or feature request](https://github.com/studioember/billsio.app/issues/new)
 
+## `v1.1.1` - Bug Fixes
+
+- Fixes payment sheet dismissal
+
 ## `v1.1.0` - Payment Updates
 
 Premium Only
