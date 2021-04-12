@@ -10,6 +10,28 @@ Ongoing list of updates and changes to Bills io. If you have a feature request o
 
 [Create a new bug or feature request](https://github.com/studioember/billsio.app/issues/new)
 
+## `v1.2.0` - UI Updates
+
+Premium Only:
+
+- Change the alert time to any time
+- Larger more apparent note ui
+- Quick switch collections inside bills list
+
+Free:
+
+- Relocates Create Bill, Pay, and Open in Safari
+- See next upcoming bills in Overview
+- Create new bill look and feel
+- Tap to toggle "Every day, month, etc" when scheduling
+- New Scheduling summary in plain english
+- Revises bill details page
+- Schedule bill dates to repeat on the last day of the month
+
+Fixes:
+
+- Notification on close for macOS
+
 ## `v1.1.1` - Bug Fixes
 
 - Fixes payment sheet dismissal
