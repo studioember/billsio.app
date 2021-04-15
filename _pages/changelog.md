@@ -10,6 +10,10 @@ Ongoing list of updates and changes to Bills io. If you have a feature request o
 
 [Create a new bug or feature request](https://github.com/studioember/billsio.app/issues/new)
 
+## `v1.2.1` - Bug Fixes
+
+- Minor UI tweaks and fixes
+
 ## `v1.2.0` - UI Updates
 
 Premium Only:
