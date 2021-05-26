@@ -18,7 +18,8 @@ Thanks and enjoy the preview!
 
 ## Builds
 
-Move to `/Applications`
+Move to `/Applications`. Local Data Only builds do not use iCloud for syncing between devices, and it only stores the data locally. It also uses a different URL scheme `billsio-debug://` in order for it to be installed alongside the regular iCloud Syncing release.
 
-- Latest - iCloud Syncing (Coming Soon)
-- [Latest Local Data Only](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest/local.zip)
+Latest Build
+- [Local Data Only](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest/local.zip)
+- iCloud Syncing (Coming Soon)
