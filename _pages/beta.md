@@ -8,7 +8,16 @@ include_in_header: false
 
 Ongoing list of updates and changes to Bills io. If you have a feature request or see a bug, please report it to our [GitHub Issue Board](https://github.com/studioember/billsio.app/issues).
 
-[Create a new bug or feature request](https://github.com/studioember/billsio.app/issues/new)
+Create a new bug or feature request:
+
+If you have a request / bug that needs back and forth communication, please use [GitHub](https://github.com/studioember/billsio.app/issues/new). All other general requests can use the [form](https://airtable.com/shr96QxbDjOwnD6Xs).
+
+- [GitHub](https://github.com/studioember/billsio.app/issues/new)
+- [General form](https://airtable.com/shr96QxbDjOwnD6Xs)
+
+## iOS &  iPadOS TestFlight
+
+Join the public [TestFlight](https://testflight.apple.com/join/3v2BZlrx)
 
 ## General Details
 
@@ -24,3 +33,9 @@ Latest Build
 
 - [Local Data Only](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest/local.zip)
 - iCloud Syncing (Coming Soon)
+
+## Changelog
+
+- Brand new macOS interface
+- Re-worked background syncing and data fetching
+- More filters in the sidebar
