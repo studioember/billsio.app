@@ -32,7 +32,7 @@ Move to `/Applications`. Local Data Only builds do not use iCloud for syncing be
 Latest Build
 
 - [Local Data Only](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest/local.zip)
-- iCloud Syncing (Coming Soon)
+- [iCloud Syncing](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest/cloud.zip)
 
 ## Changelog
 
