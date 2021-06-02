@@ -29,7 +29,7 @@ Thanks and enjoy the preview!
 
 Latest Build
 
-- [Bills io - macOS](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest/cloud.zip)
+- [Bills io - macOS](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest.zip)
 
 ## Changelog
 
