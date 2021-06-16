@@ -36,3 +36,19 @@ Latest Build
 - Brand new macOS interface
 - Re-worked background syncing and data fetching
 - More filters in the sidebar
+- TabView for Phones
+- Overview Page
+- Quick Pay
+- Skip Payment
+- More context menu actions
+	- Quick Pay
+	- Skip Payment
+	- Edit
+	- Background notification scheduling
+- Editing a bill brings up the "New Bill" wording
+- Arrow controls in lists
+- Payment context menus
+- Add year to Payment Component
+- Sidebar icons
+- Currency localizations
+- Fix iCloud sync on first launch
