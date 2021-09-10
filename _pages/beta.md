@@ -10,10 +10,9 @@ Ongoing list of updates and changes to Bills io. If you have a feature request o
 
 Create a new bug or feature request:
 
-If you have a request / bug that needs back and forth communication, please use [GitHub](https://github.com/studioember/billsio.app/issues/new). All other general requests can use the [form](https://airtable.com/shr96QxbDjOwnD6Xs).
+If you have a request / bug, please use [GitHub](https://github.com/studioember/billsio.app/issues/new)
 
 - [GitHub](https://github.com/studioember/billsio.app/issues/new)
-- [General form](https://airtable.com/shr96QxbDjOwnD6Xs)
 
 ## iOS &  iPadOS TestFlight
 
@@ -26,6 +25,8 @@ This is the Beta page for Bills io for macOS. Here you can find the latest build
 Thanks and enjoy the preview!
 
 ## Builds
+
+**Important, macOS builds going forward will be released via TestFlight for macOS Monterey**
 
 Latest Build
 
