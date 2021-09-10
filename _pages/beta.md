@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beta
-include_in_header: false
+include_in_header: true
 ---
 
 # macOS "Private" Beta
@@ -14,9 +14,11 @@ If you have a request / bug, please use [GitHub](https://github.com/studioember/
 
 - [GitHub](https://github.com/studioember/billsio.app/issues/new)
 
-## iOS &  iPadOS TestFlight
+## TestFlight Information
 
 Join the public [TestFlight](https://testflight.apple.com/join/3v2BZlrx)
+
+macOS Monterey Beta now has access to TestFlight Builds
 
 ## General Details
 
@@ -29,8 +31,6 @@ Thanks and enjoy the preview!
 **Important, macOS builds going forward will be released via TestFlight for macOS Monterey**
 
 Latest Build
-
-- [Bills io - macOS](https://f001.backblazeb2.com/file/Studio-Ember/applications/billsio/macOS/latest.zip)
 
 ## Changelog
 
