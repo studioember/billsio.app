@@ -1,6 +1,6 @@
 # Bills io
 
-The secure and private bill management build natively for iOS, iPadOS, and macOS.
+The secure and private bill management built natively for iOS, iPadOS, and macOS.
 
 ## Public TestFlight
 
